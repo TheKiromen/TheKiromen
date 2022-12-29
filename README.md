@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Dominik.</h1>
 <h3 align="center">A self-taught Java developer from Poland. I like coding, cooking and fantasy books.</h3>
 
-- 👨‍💻 My portfolio [Website](Website)
+- 👨‍💻 My portfolio [Website](https://dkrucze.com)
 
 - 📫 How to reach me **dkrucze@gmail.com**
 
