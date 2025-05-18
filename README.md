@@ -6,7 +6,6 @@
 - 📫 How to reach me **dkrucze@gmail.com**
 
 - ⚡ Fun fact: **I wanted to be a professional cook once.**
-- 💥 No so fun fact: **This thing exists: https://en.wikipedia.org/wiki/Kiviak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
